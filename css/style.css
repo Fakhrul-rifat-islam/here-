@@ -1,0 +1,20 @@
+body{}
+.blog{
+    background-image: url(../images/ima.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.banner{
+    padding: 180px 0px;
+}
+footer a li{
+   
+    list-style: none;
+   
+}
+footer a{ text-decoration: none;}
+
+.whatsapp{
+    padding-left: 10px;
+}
